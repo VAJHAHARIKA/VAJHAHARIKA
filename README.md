@@ -9,7 +9,7 @@ Here are some ideas to get you started:-->
 - 🌱 I’m currently learning ...Deep Learning  
 - 👯 I’m looking to collaborate on ...Anything related to Machine learning and Quantum Computing
 - 💬 Ask me about ...Programming, ML,QC and my book on Quantum Computing- "Beyond Classical" Available on Amazon
-- 📫 How to reach me: ...visit - https://vajhaharika.github.io/HarikaVajha/
+- 📫 How to reach me: ...visit - [https://vajhaharika.github.io/HarikaVajha/](https://vajhaharika.github.io/HARIKA/)
 - 😄 Pronouns: ...She/Her
 - ⚡ Fun fact: ...Nothing that is observed is unaffected by the observer
 
