@@ -6,7 +6,7 @@
 - 👯 Open to collaborations in: Responsible AI, Voice AI, and Applied ML Research
 - 📘 Author of "Beyond Classical", a hands-on intro to Quantum Computing — Available on Amazon 
 - 💬 Ask me about: AI, LLMs, NLP, ML pipelines, or how to build production-ready ML systems
-- 📫 Reach out here: [vajhaharika.github.io/HarikaVajha](https://vajhaharika.github.io/HarikaVajha)
+- 📫 Reach out here: [My Portfolio](https://vajhaharika.github.io/harika7/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I once built an accent coach powered by phoneme-level feedback and deep learning. Teaching machines to listen is my thing.
 
