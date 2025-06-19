@@ -9,4 +9,5 @@
 - 📫 Reach out here: [My Portfolio](https://vajhaharika.github.io/harika7/) | [LinkedIN](https://www.linkedin.com/in/harikavajha/) 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Nothing that is observed is unaffected by the observer
-Thanks for stopping by — let’s build something awesome! 🚀
+  
+Thanks for stopping by — let’s build something awesome! 
