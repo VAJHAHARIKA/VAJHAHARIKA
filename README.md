@@ -8,6 +8,5 @@
 - 💬 Ask me about: AI, LLMs, NLP, ML pipelines, or how to build production-ready ML systems
 - 📫 Reach out here: [My Portfolio](https://vajhaharika.github.io/harika7/) | [LinkedIN](https://www.linkedin.com/in/harikavajha/) 
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I once built an accent coach powered by phoneme-level feedback and deep learning. Teaching machines to listen is my thing.
-
+- ⚡ Fun fact: Nothing that is observed is unaffected by the observer
 Thanks for stopping by — let’s build something awesome! 🚀
