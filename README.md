@@ -1,4 +1,4 @@
-### Hello there 👋 I'm Harika Vajha  
+### Hello Awesome Coder 👋! I'm Harika Vajha  
 <!-- **VAJHAHARIKA/VAJHAHARIKA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 Currently building: Accent Coach – an AI-powered pronunciation feedback tool blending speech recognition and deep learning
@@ -8,6 +8,6 @@
 - 💬 Ask me about: AI, LLMs, NLP, ML pipelines, or how to build production-ready ML systems
 - 📫 Reach out here: [My Portfolio](https://vajhaharika.github.io/harika7/) | [LinkedIN](https://www.linkedin.com/in/harikavajha/) 
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Nothing that is observed is unaffected by the observer
+- ⚡ Fun fact: Nothing that is observed is unaffected by the observer!!
   
 Thanks for stopping by — let’s build something awesome! 
